@@ -90,7 +90,7 @@ plot = np.array([
 # In[4]:
 
 
-print(a_star(plot,(19,12),(18,17)))
+print(a_star(plot,(19,12),(18,17))) 
 
 
 # In[ ]:
